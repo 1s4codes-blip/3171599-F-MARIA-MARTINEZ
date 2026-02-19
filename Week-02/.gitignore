@@ -1,4 +1,9 @@
 __pycache__/
 *.pyc
 .venv/
-.env
+.envgit rm --cached package-lock.json
+package.json
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+node_modules/
